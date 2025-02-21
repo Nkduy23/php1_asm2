@@ -54,7 +54,6 @@ switch ($page) {
     case 'editpropage':
         $productController->renderEditProduct($_GET['id']);
         break;
-
     case 'deletepro':
         $productController->deleteProduct($_GET['id']);
         break;

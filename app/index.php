@@ -1,6 +1,7 @@
 <?php
 session_start();
 ob_start();
+// var_dump($_SESSION['user']);
 
 $page = $_GET['page'] ?? 'home';
 
@@ -45,11 +46,11 @@ switch ($page) {
     case 'logout':
         $authController->logout();
         break;
-    case 'admin':
-        require_once './middlewares/adminMiddleware.php';
-        adminMiddleware();
-        require_once '../admin/index.php';
-        break;
+    // case 'admin':
+    //     require_once './middlewares/adminMiddleware.php';
+    //     adminMiddleware();
+    //     require_once '../admin/index.php';
+    //     break;
     default:
         echo "Page not found";
         break;

@@ -57,11 +57,11 @@ class AuthController {
     }
 
     // Kiểm tra quyền admin
-    public function isAdmin() {
-        session_start();
-        if (isset($_SESSION['user'])) {
-            return $_SESSION['user']['role'] === 'admin';
-        }
-        return false;
-    }
+    // public function isAdmin() {
+    //     session_start();
+    //     if (isset($_SESSION['user'])) {
+    //         return $_SESSION['user']['role'] === 'admin';
+    //     }
+    //     return false;
+    // }
 }

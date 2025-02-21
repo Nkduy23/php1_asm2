@@ -220,26 +220,21 @@ ob_start();
           <i class="fa-solid fa-cart-shopping"></i>
         </a>
         <div class="header__user-info" style="display: none"></div>
-        <!-- <a href="?page=login" class="header__action-button-login button" aria-label="Login button">
-          <i class="fa-regular fa-user"></i>
-        </a> -->
         <button class="button header__action-button-logout" style="display: none">
           <i class="fa-solid fa-sign-out"></i>
         </button>
         <?php if (isset($_SESSION['user'])): ?>
-    <p>Xin chào, <?= htmlspecialchars($_SESSION['user']['username']) ?></p>
-    <a href="?page=logout">Đăng xuất</a>
+          <p>Xin chào, <?= htmlspecialchars($_SESSION['user']['username']) ?></p>
+          <a href="?page=logout">Đăng xuất</a>
+        <?php if ($_SESSION['user']['role'] === 'admin'): ?>
+            <a href="../admin/index.php" class="admin-button">Truy cập trang admin</a>
+        <?php endif; ?>
 
-    <!-- Kiểm tra nếu người dùng là admin thì hiển thị nút truy cập trang admin -->
-    <?php if ($_SESSION['user']['role'] === 'admin'): ?>
-        <a href="../admin/index.php" class="admin-button">Truy cập trang admin</a>
-    <?php endif; ?>
-
-<?php else: ?>
-    <a href="?page=login" class="header__action-button-login button" aria-label="Login button">
-        <i class="fa-regular fa-user"></i>
-    </a>
-<?php endif; ?>
+        <?php else: ?>
+            <a href="?page=login" class="header__action-button-login button" aria-label="Login button">
+                <i class="fa-regular fa-user"></i>
+            </a>
+        <?php endif; ?>
       </div>
     </div>
   </header>
