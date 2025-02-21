@@ -1,0 +1,38 @@
+[
+  {
+    "id": "regular13",
+    "name": "Giày Sandal Nam MWC 7052 - Sandal Nam Quai Ngang Chéo Phối Lót Dán Thời Trang, Sandal Nam Đi Học, Đi Làm, Đi Chơi Thanh Lịch, Trẻ Trung.",
+    "price": "100,000đ",
+    "image": "regular13-Black.jpg",
+    "type": "regular",
+    "colors": ["Black", "Grey"],
+    "category": "depSandal"
+  },
+  {
+    "id": "regular14",
+    "name": "Giày Sandal Nam MWC 7095 - Sandal Da Nam Cao Cấp Phối Nút Cài Quai Hậu Siêu Bền Đẹp, Sandal Nam Kiểu Dáng Streetwear Thanh Lịch, Thời Trang.",
+    "price": "150,000đ",
+    "image": "regular14-Black.jpg",
+    "type": "regular",
+    "colors": ["Black", "Grey"],
+    "category": "depSandal"
+  },
+  {
+    "id": "regular15",
+    "name": "Dép Nam MWC 7909 - Dép Da Nam Quai Ngang Bản To Siêu Bền Đẹp, Dép Nam Đế Doctor Cá Tính, Thời trang.",
+    "price": "160,000đ",
+    "image": "regular15-Black.jpg",
+    "type": "regular",
+    "colors": ["Black", "Grey"],
+    "category": "depSandal"
+  },
+  {
+    "id": "regular16",
+    "name": "Dép Nam MWC 7908 - Dép Da Nam Quai Ngang Bản To Siêu Bền Đẹp, Dép Nam Đế Doctor Cá Tính, Thời trang.",
+    "price": "220,000đ",
+    "image": "regular16-Black.jpg",
+    "type": "regular",
+    "colors": ["Black", "Grey"],
+    "category": "depSandal"
+  }
+]

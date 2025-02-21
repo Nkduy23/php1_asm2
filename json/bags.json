@@ -1,0 +1,38 @@
+[
+    {
+        "id": "regular5",
+        "name": "Balo MWC 1170 - Balo Unisex Thời Trang Chống Sốc, Chống Nước, Nhiều Ngăn Siêu Tiện Lợi Dùng Đựng Laptop, Mang Đi Học, Đi Chơi",
+        "price": "120,000đ",
+        "image": "regular5-black.jpg",
+        "type": "regular",
+        "colors": ["Black"],
+        "category": "bags"
+      },
+      {
+        "id": "regular6",
+        "name": "Balo MWC 1220 - Balo Unisex Thời Trang Chống Sốc, Chống Nước, Nhiều Ngăn Siêu Tiện Lợi Dùng Đựng Laptop, Mang Đi Học, Đi Chơi.",
+        "price": "150,000đ",
+        "image": "regular6-black.jpg",
+        "type": "regular",
+        "colors": ["Black"],
+        "category": "bags"
+      },
+      {
+        "id": "regular7",
+        "name": "Balo MWC 1225 - Balo Unisex Thời Trang Chống Sốc, Chống Nước, Nhiều Ngăn Siêu Tiện Lợi Dùng Đựng Laptop, Mang Đi Học, Đi Chơi.",
+        "price": "150,000đ",
+        "image": "regular7-Grey.jpg",
+        "type": "regular",
+        "colors": ["Grey", "Black"],
+        "category": "bags"
+      },
+      {
+        "id": "regular8",
+        "name": "Balo MWC 1232 - Balo Unisex Thời Trang Chống Sốc, Chống Nước, Nhiều Ngăn Siêu Tiện Lợi Dùng Đựng Laptop, Mang Đi Học, Đi Chơi.",
+        "price": "120,000đ",
+        "image": "regular8-Grey.jpg",
+        "type": "regular",
+        "colors": ["Grey", "Black"],
+        "category": "bags"
+      }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id": "regular9",
+        "name": "Giày Thể Thao Nam MWC 5725 - Giày Thể Thao Nam Đi Học, Đi Chơi, Leo Núi Siêu Bền Đẹp, Năng Động Trẻ Trung, Thời trang.",
+        "price": "150,000đ",
+        "image": "regular9-black.jpg",
+        "type": "regular",
+        "colors": ["Black", "DarkGoldenRod", "GhostWhite"],
+        "category": "shoesForMen"
+      },
+      {
+        "id": "regular10",
+        "name": "Giày Thể Thao Nam MWC 5727- Giày Thể Thao Nam Dáng Sneaker Cổ Thấp, Giày Thể Thao Nam Đi Học, Đi Chơi, Dã Ngoại Năng Động, Trẻ Trung, Thời Trang.",
+        "price": "120,000đ",
+        "image": "regular10-GhostWhite.jpg",
+        "type": "regular",
+        "colors": ["GhostWhite", "Black"],
+        "category": "shoesForMen"
+      },
+      {
+        "id": "regular11",
+        "name": "Giày Thể Thao Nam MWC 5745- Giày Da Thể Thao Nam Dáng Sneaker Cổ Thấp Siêu Bền Đẹp, Giày Thể Thao Nam Đi Học, Đi Chơi, Dã Ngoại Năng Động, Trẻ Trung, Thời Trang.",
+        "price": "120,000đ",
+        "image": "regular11-GhostWhite.jpg",
+        "type": "regular",
+        "colors": ["GhostWhite", "Cornsilk"],
+        "category": "shoesForMen"
+      },
+      {
+        "id": "Giày Thể Thao Nam MWC 5750 - Giày Thể Thao Nam Đi Học, Đi Chơi, Leo Núi Siêu Bền Đẹp, Giày Thể Thao Nam Dáng Sneaker Năng Động Trẻ Trung, Thời trang.",
+        "name": "Sản phẩm Regular 2",
+        "price": "110,000đ",
+        "image": "regular12-Black.jpg",
+        "type": "regular",
+        "colors": ["Black", "Chocolate"],
+        "category": "shoesForMen"
+      }
+]

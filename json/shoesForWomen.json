@@ -1,0 +1,39 @@
+[
+    {
+        "id": "regular1",
+        "name": "Giày Cao Gót Nữ MWC G121 - Giày Cao Gót 2 Đôi Quai Mảnh Chéo Đính Đá Lấp Lánh Sang Chảnh, Giày Cao Gót Đế Trụ Cao 10cm Phong Cách Sành Điệu Siêu Hack Dáng, Thời Trang.",
+        "price": "120,000đ",
+        "image": "regular1-Black.jpg",
+        "type": "regular",
+        "colors": ["Black", "DarkGray"],
+        "category": "shoesForWomen"
+      },
+      {
+        "id": "regular2",
+        "name": "Giày Sandal Cao Gót MWC G155 - Saldal Quai Ngang Nữ Cao Cấp, Sandal Nữ Gót Vuông Cao 5 Phân Thanh Lịch, Thời Trang.",
+        "price": "150,000đ",
+        "image": "regular2-Cornsilk.jpg",
+        "type": "regular",
+        "colors": ["Cornsilk", "Black"],
+        "category": "shoesForWomen"
+      },
+      {
+        "id": "regular3",
+        "name": "Giày Cao Gót MWC G135 - Giày Cao Gót Nữ Dáng Slingback Bít Mũi Phối Khóa Vuông Cổ Điển, Giày Cao Gót Gót Trụ Cao 8cm Thanh Lịch, Thời Trang.",
+        "price": "310,000đ",
+        "image": "regular3-GhostWhite.jpg",
+        "type": "regular",
+        "colors": ["GhostWhite", "Black", "Cornsilk"],
+        "category": "shoesForWomen"
+      },
+      {
+        "id": "regular4",
+        "name": "Giày Cao Gót MWC G127 - Dép Cao Gót Quai Ngang Chéo Xỏ Ngón Siêu Hottrend, Guốc Đế Đúc Cao 8cm Thanh Lịch, Thời Trang.",
+        "price": "120,000đ",
+        "image": "regular4-Cornsilk.jpg",
+        "type": "regular",
+        "colors": ["Cornsilk", "Black"],
+        "category": "shoesForWomen"
+      }
+    
+]

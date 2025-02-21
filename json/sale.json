@@ -1,0 +1,46 @@
+[
+  {
+    "id": "sale5",
+    "name": "Dép Nữ MWC - 8136 Dép Nữ Quai Ngang Cách Điệu Dép Nữ Đế Bệt Mũi Vuông Hot Trend",
+    "price": "125,000đ",
+    "image": "sale1-Bisque.jpg",
+    "type": "sale",
+    "salePercent": "50",
+    "progress": 75,
+    "colors": ["Bisque"],
+    "category": "sale"
+  },
+  {
+    "id": "sale6",
+    "name": "Dép nữ MWC - 8173 Dép Nữ Đế Bánh Mì Cao 4cm,Dép Nữ Quai Chéo Lót Dán Siêu Êm Chân Thời Trang Trẻ Trung Thanh Lịch",
+    "price": "117,000đ",
+    "image": "sale2-Black.jpg",
+    "type": "sale",
+    "salePercent": "50",
+    "progress": 30,
+    "colors": ["Black"],
+    "category": "sale"
+  },
+  {
+    "id": "sale7",
+    "name": "Dép nam MWC - 7741 Dép Nam Quai Ngang Phối Màu In Chữ Nổi Bật Cực Đẹp, Dép Nam Kiểu Dáng Thời Trang, Đi Êm Chân, Mẫu Mới",
+    "price": "120,000đ",
+    "image": "sale3-Gold.jpg",
+    "type": "sale",
+    "salePercent": "25",
+    "progress": 75,
+    "colors": ["Gold"],
+    "category": "sale"
+  },
+  {
+    "id": "sale8",
+    "name": "Dép Nữ MWC 8347 - Dép Nữ Quai Ngang Bản To Nhún Cách Điệu, Dép Đế Đúc 3cm Năng Động,Trẻ Trung, Thời Trang.",
+    "price": "100,000đ",
+    "image": "sale4-DarkGoldenRod.jpg",
+    "type": "sale",
+    "salePercent": "40",
+    "progress": 30,
+    "colors": ["DarkGoldenRod", "Cornsilk", "Black"],
+    "category": "sale"
+  }
+]
