@@ -30,7 +30,14 @@ class ProductModel {
         $stmt = $this->conn->prepare($query);
         $stmt->bindParam(':category', $category);
         $stmt->execute();
-        return $stmt->fetchAll(PDO::FETCH_ASSOC);
+        $products = $stmt->fetchAll(PDO::FETCH_ASSOC);
+
+        foreach ($products as &$product) {
+            if (isset($product['colors'])) {
+                $product['colors'] = json_decode($product['colors'], true); 
+            }
+        }
+        return $products;
     }
 
     // Chi tiết các sản phẩm

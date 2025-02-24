@@ -46,11 +46,6 @@ switch ($page) {
     case 'logout':
         $authController->logout();
         break;
-    // case 'admin':
-    //     require_once './middlewares/adminMiddleware.php';
-    //     adminMiddleware();
-    //     require_once '../admin/index.php';
-    //     break;
     default:
         echo "Page not found";
         break;
